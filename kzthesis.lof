@@ -1,0 +1,21 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Wangらの没入型VRデジタルツインシステム}}{2}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces UFACTORY Lite6}}{5}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces PETシートから切り抜いた切り紙グリッパー}}{6}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 切り紙グリッパーの装置とLite6への接続}}{7}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Rvizで表示した切り紙グリッパーのモデル(a)とGazeboで表示した切り紙グリッパーを持つLite6のデジタルモデル(b)}}{7}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 開発したデジタルツインシステムの全体構成}}{9}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces ノードの立ち上げ順}}{10}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces CADでの角度の計測}}{11}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 実験環境}}{14}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 使用機器の接続図}}{14}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 切り紙グリッパーの指先距離を測定するためのジョイント}}{15}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 物理モデル実験の結果}}{16}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 物理モデル実験のLite6の各関節の角度変化}}{17}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 切り紙グリッパーの物理モデル実験の角度変化}}{18}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces デジタルモデル実験の結果}}{18}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces デジタルモデル実験のLite6の各関節の角度変化}}{19}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces 切り紙グリッパーのデジタルモデルに追加した指先距離測定用ジョイントのY座標の変化}}{20}{}%
+\addvspace {10\p@ }

@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1677695849 "c:/Users/rntrt/Desktop/Research_Paper_TEX/kzthesis.tex" "kzthesis.pdf" "kzthesis" 1677695853 2
+  "abstract.tex" 1677695840 1062 ce30d06d04a4f81c53f846bf656f1d58 ""
+  "c:/Users/rntrt/Desktop/Research_Paper_TEX/kzthesis.tex" 1675906693 1349 75cd7f70945ecf3c4e18c3fd6f1ab32d ""
+  "c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1675310796 30429 213676d4c7327a21d91ddaed900e7b81 ""
+  "c:/texlive/2022/texmf-dist/web2c/texmf.cnf" 1675306919 40171 cdab547de63d26590bebb3baff566530 ""
+  "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1675316963 7877897 3076a21b8bed0ae402ac1495b389e55e ""
+  "c:/texlive/2022/texmf.cnf" 1675316066 713 e69b156964470283e0530f5060668171 ""
+  "kzthesis.aux" 1677695852 49 d08f8b354dabb442362f1ed09bb29971 "pdflatex"
+  "kzthesis.cls" 1675498290 5825 edfdc9b2552603662cbca47c982426dc ""
+  "kzthesis.tex" 1675906693 1349 75cd7f70945ecf3c4e18c3fd6f1ab32d ""
+  "title.tex" 1675498294 0 d41d8cd98f00b204e9800998ecf8427e ""
+  (generated)
+  "abstract.aux"
+  "kzthesis.aux"
+  "kzthesis.log"
+  "kzthesis.pdf"
+  "title.aux"
+  (rewritten before read)
